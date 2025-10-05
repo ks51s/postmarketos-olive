@@ -59,6 +59,6 @@ I will laugh at you.
 **So, that's it.**
 
 ## Additional links:
-*Redmi 8 postmarketOS wiki page: https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_8_(xiaomi-olive)
+● Redmi 8 postmarketOS wiki page: https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_8_(xiaomi-olive)
 
-Channel about running Linux on olive: https://t.me/xiaomi_sdm439_olives_linux*
+● Channel about running Linux on olive: https://t.me/xiaomi_sdm439_olives_linux
