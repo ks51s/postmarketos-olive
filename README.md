@@ -47,6 +47,8 @@ I will laugh at you.
 ## Device source:
 ● [Device tree](https://github.com/mi-sdm439/android_device_xiaomi_olive)
 
+● [Device package](https://github.com/mi-sdm439/android_device_xiaomi_olive)
+
 ● [Kernel package](https://gitlab.postmarketos.org/postmarketOS/pmaports/-/tree/master/device/downstream/linux-xiaomi-olive)
 
 ## Installing postmarketOS:
